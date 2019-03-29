@@ -1,0 +1,7 @@
+C:\Users\FILIP\Desktop\Code Academy\c# advanced\domashni\1\Advanced_cSharp_h1\Advanced_cSharp_h1\bin\Debug\Advanced_cSharp_h1.exe.config
+C:\Users\FILIP\Desktop\Code Academy\c# advanced\domashni\1\Advanced_cSharp_h1\Advanced_cSharp_h1\bin\Debug\Advanced_cSharp_h1.exe
+C:\Users\FILIP\Desktop\Code Academy\c# advanced\domashni\1\Advanced_cSharp_h1\Advanced_cSharp_h1\bin\Debug\Advanced_cSharp_h1.pdb
+C:\Users\FILIP\Desktop\Code Academy\c# advanced\domashni\1\Advanced_cSharp_h1\Advanced_cSharp_h1\obj\Debug\Advanced_cSharp_h1.csprojAssemblyReference.cache
+C:\Users\FILIP\Desktop\Code Academy\c# advanced\domashni\1\Advanced_cSharp_h1\Advanced_cSharp_h1\obj\Debug\Advanced_cSharp_h1.csproj.CoreCompileInputs.cache
+C:\Users\FILIP\Desktop\Code Academy\c# advanced\domashni\1\Advanced_cSharp_h1\Advanced_cSharp_h1\obj\Debug\Advanced_cSharp_h1.exe
+C:\Users\FILIP\Desktop\Code Academy\c# advanced\domashni\1\Advanced_cSharp_h1\Advanced_cSharp_h1\obj\Debug\Advanced_cSharp_h1.pdb
